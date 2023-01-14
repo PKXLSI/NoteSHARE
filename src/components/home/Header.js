@@ -3,7 +3,7 @@ import './Header.css';
 function Header() {
   return (
     <div className='header'>
-        NoteShare
+        <div className='title'>N♦te<span className='bluecolor'>Shxre</span></div>
     </div>
   )
 }

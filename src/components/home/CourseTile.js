@@ -2,7 +2,7 @@ import React from 'react'
 import {Link} from 'react-router-dom';
 import './CourseTile.css';
 
-function CourseTile({title, image, description, link}) {
+function CourseTile({title, image, description}) {
   return (
     <div className = 'course'>
             <div className='course__info'>
@@ -11,11 +11,6 @@ function CourseTile({title, image, description, link}) {
             </div>
             
             <img src={image}/>
-            
-            <Link to = {link}>
-                <button className='course__button'>Go to Course!</button>
-            </Link>
-                
         </div>
   )
 }
