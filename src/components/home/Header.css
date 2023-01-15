@@ -1,9 +1,16 @@
 .header{
     font-weight: 100;   
     font-size: 60px;
+    margin-top: 20px;
+    align-items: center;
 }
 
 
 .bluecolor{
-    color: 'blue';
+    background-color: rgb(217, 238, 255);
+    color: rgb(40, 40, 40);
+    border-radius: 10px;
+    font-weight: 500;
+    padding-left: 10px;
+    padding-right: 10px;
 }

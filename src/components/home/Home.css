@@ -8,3 +8,36 @@
     max-width: 100%;
     flex-wrap: wrap;
 }
+
+.search__bar{
+    padding: 10px;
+    border-radius: 10px;
+    width: 60%;
+    margin-left: 20%;
+}
+
+.navigation{
+    display: flex;
+    align-items: center;
+}
+
+.navigation > button{
+    background-color: white;
+    border:none;
+    color: Black;
+    text-align: center;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-top: 10px;
+    transition: 0.2s;   
+    margin-left: 5px;
+}
+
+.navigation > button:hover {
+    background-color: rgb(217, 238, 255);
+    transition: 0.2s;   
+    transform: scale(1.03); 
+    content: "GO!";
+}
