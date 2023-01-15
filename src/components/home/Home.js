@@ -29,7 +29,7 @@ function Home() {
         <div className='home'>
             <Header/>
             <div className='navigation'>
-                <input type={'text'} placeholder={'INPUT'} className = 'search__bar' id = 'search'></input>
+                <input type={'text'} placeholder={'Search'} className = 'search__bar' id = 'search'></input>
                 <button className='specific' onClick={findElements}><SearchIcon/></button>
                 <button className='specific' onClick={resetElements}><DisabledByDefaultIcon/></button>
             </div>
