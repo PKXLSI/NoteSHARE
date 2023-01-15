@@ -21,7 +21,7 @@
     align-items: center;
 }
 
-.navigation > button{
+.specific{
     background-color: white;
     border:none;
     color: Black;
@@ -33,9 +33,10 @@
     padding-top: 10px;
     transition: 0.2s;   
     margin-left: 5px;
+    width: 5%;
 }
 
-.navigation > button:hover {
+.specific:hover {
     background-color: rgb(217, 238, 255);
     transition: 0.2s;   
     transform: scale(1.03); 

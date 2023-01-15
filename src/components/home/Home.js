@@ -30,8 +30,8 @@ function Home() {
             <Header/>
             <div className='navigation'>
                 <input type={'text'} placeholder={'INPUT'} className = 'search__bar' id = 'search'></input>
-                <button onClick={findElements}><SearchIcon/></button>
-                <button onClick={resetElements}><DisabledByDefaultIcon/></button>
+                <button className='specific' onClick={findElements}><SearchIcon/></button>
+                <button className='specific' onClick={resetElements}><DisabledByDefaultIcon/></button>
             </div>
             <div className='container'>
             {

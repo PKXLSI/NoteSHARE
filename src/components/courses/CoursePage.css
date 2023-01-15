@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+}
+
+.topics{
+    width: 30%;
+    height: 100%;
+}
+
+.content{
+    width: 70%;
+    height: 100%;
+}
+
+button{
+    text-align: center;
+    /* border: 1px solid black; */
+    padding: 10px;
+    width: 80%;
+    margin-left: 10%;
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: 20px;
+    transition: 0.2s;
+    margin-bottom: 20px;
+    border: none;
+    background-color: white;
+}
+
+button:hover {
+    -ms-transform: scale(1.05); /* IE 9 */
+    -webkit-transform: scale(1.05); /* Safari 3-8 */
+    transform: scale(1.05); 
+    /* box-shadow: 5px 5px 5px 5px rgba(51, 81, 161, 0.5); */
+    background-color: rgb(217, 238, 255);
+    transition: 0.2s;
+    box-shadow: none;
+}
