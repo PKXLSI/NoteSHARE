@@ -6,7 +6,7 @@ export const CourseTopics = {
     '1ZC3':['Matrixes', 'EigenValues', 'EigenVectors', 'Decoding', 'Encoding'],
     '3Z03':['Unit1', 'Unit2', 'Unit3', 'Unit4', 'Unit5'],
     '3ZZ3':['3ZZ3', '3ZZ3(1)', '3ZZ3(2)', '3ZZ3(3)', '3ZZ3(4)'],
-    '2PX3':['3ZZ3', '3ZZ3(1)', '3ZZ3(2)', '3ZZ3(3)', '3ZZ3(4)'],
+    '2AA3':['1','2','3','4','5'],
     '2AA3':['1','2','3','4','5'],
     '2C03':['1','2','3','4','5'],
     '2DA4':['1','2','3','4','5'],

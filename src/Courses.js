@@ -81,22 +81,15 @@ export const Courses = [
   },
   {
     id: "11",
-    title: "MATH 2Z03",
-    description: "Engineering Mathematics III ",
+    title: "ENGINEER 3PX3",
+    description: "Integrated Engineering Design Project 3 ",
     images:
       "https://png.pngtree.com/png-vector/20190811/ourlarge/pngtree-beautiful-math-symbols-glyph-black-icon-png-image_1659142.jpg",
-    link: "/2Z03",
+    link: "/3PX3",
   },
+  
   {
     id: "12",
-    title: "SFWRENG 2AA4",
-    description: "Software Design I - Introduction to Software Development ",
-    images:
-      "https://png.pngtree.com/png-vector/20190811/ourlarge/pngtree-beautiful-math-symbols-glyph-black-icon-png-image_1659142.jpg",
-    link: "/2AA4",
-  },
-  {
-    id: "13",
     title: "SFWRENG 2C03",
     description: "Data Structures and Algorithms ",
     images:
@@ -235,11 +228,11 @@ export const Courses = [
   },
   {
     id: "30",
-    title: "ENGINEER 3PX3",
-    description: "Integrated Engineering Design Project 3 ",
+    title: "SFWRENG 4X03",
+    description: "Scientific Computation ",
     images:
       "https://png.pngtree.com/png-vector/20190811/ourlarge/pngtree-beautiful-math-symbols-glyph-black-icon-png-image_1659142.jpg",
-    link: "/3PX3",
+    link: "/4X03",
   },
   {
     id: "31",
@@ -289,13 +282,6 @@ export const Courses = [
       "https://png.pngtree.com/png-vector/20190811/ourlarge/pngtree-beautiful-math-symbols-glyph-black-icon-png-image_1659142.jpg",
     link: "/4HC3",
   },
-  {
-    id: "37",
-    title: "SFWRENG 4X03",
-    description: "Scientific Computation ",
-    images:
-      "https://png.pngtree.com/png-vector/20190811/ourlarge/pngtree-beautiful-math-symbols-glyph-black-icon-png-image_1659142.jpg",
-    link: "/4X03",
-  },
+  
   
 ];
