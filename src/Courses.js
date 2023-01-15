@@ -154,11 +154,11 @@ export const Courses = [
   },
   {
     id: "20",
-    title: "ENGINEER 2PX3",
-    description: "Integrated Engineering Design Project 2 ",
+    title: "STATS 3Y03",
+    description: "Probability and Statistics for Engineering ",
     images:
       "https://png.pngtree.com/png-vector/20190811/ourlarge/pngtree-beautiful-math-symbols-glyph-black-icon-png-image_1659142.jpg",
-    link: "/2PX3",
+    link: "/3Y03",
   },
   {
     id: "21",
@@ -297,12 +297,5 @@ export const Courses = [
       "https://png.pngtree.com/png-vector/20190811/ourlarge/pngtree-beautiful-math-symbols-glyph-black-icon-png-image_1659142.jpg",
     link: "/4X03",
   },
-  {
-    id: "38",
-    title: "STATS 3Y03",
-    description: "Probability and Statistics for Engineering ",
-    images:
-      "https://png.pngtree.com/png-vector/20190811/ourlarge/pngtree-beautiful-math-symbols-glyph-black-icon-png-image_1659142.jpg",
-    link: "/3Y03",
-  },
+  
 ];
